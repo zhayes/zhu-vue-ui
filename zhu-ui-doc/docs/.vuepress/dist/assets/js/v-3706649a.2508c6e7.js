@@ -1,1 +1,0 @@
-(self.webpackChunkzhu_ui_doc=self.webpackChunkzhu_ui_doc||[]).push([[88],{38:(t,e,u)=>{"use strict";u.r(e),u.d(e,{data:()=>a});const a={key:"v-3706649a",path:"/404.html",title:"",lang:"en-US",frontmatter:{layout:"404"},excerpt:"",headers:[],filePathRelative:null,git:{}}},5758:(t,e,u)=>{"use strict";u.r(e),u.d(e,{default:()=>a});const a={render:function(t,e){return null}}}}]);
