@@ -2,6 +2,7 @@
 module.exports = {
     title: 'zhu-vue-ui',
     description: 'Just playing around',
+    base:'/zhu-vue-ui/',
     themeConfig: {
         displayAllHeaders: true,
         sidebar: [
