@@ -14,6 +14,13 @@ module.exports = {
             '/modal.md',
             '/message.md',
             '/loading.md'
+        ],
+        navbar: [
+            // NavbarItem
+            {
+              text: 'gitHub',
+              link: 'https://github.com/zhayes/zhu-vue-ui/',
+            }
         ]
     }
 }
